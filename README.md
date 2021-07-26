@@ -10,3 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ekaterinats/atoMEC/Jupyter-notebooks)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ekaterinats/atoMEC/Jupyter-notebooks?filepath=Notebooks)
