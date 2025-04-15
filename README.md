@@ -5,8 +5,6 @@ Hey, I'm Kat! Physicist currently working as a Data Scientist with expertise in 
 - **Data visualization**
 - **Machine learning**
 
-#### 📚 Portfolio
-
 I invite you to check out [my portfolio](https://github.com/ekaterinahs/portfolio/blob/main/README.md), where I showcase some of my projects! 🚀🎨
 
 #### 🛠️ Tech stack
