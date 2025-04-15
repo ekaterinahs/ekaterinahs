@@ -1,6 +1,6 @@
 ### 👋 Introducing me
 
-Hey, I'm Kat! Physicist currently working as a Data Scientist with expertise in data mining, including:
+Hey, I'm Kat! Data Scientist with a Physics background and expertise in data mining, including:
 - **Data analysis**
 - **Data visualization**
 - **Machine learning**
@@ -8,9 +8,9 @@ Hey, I'm Kat! Physicist currently working as a Data Scientist with expertise in 
 I invite you to check out [my portfolio](https://github.com/ekaterinahs/portfolio/blob/main/README.md), where I showcase some of my projects! 🚀🎨
 
 #### 🛠️ Tech stack
-- Languages: Python, SQL, R
+- Languages: Python, R, C++, VBA
 - Databases: MySQL, Google BigQuery, PostgreSQL
-- Visualization: Tableau, Looker Studio
+- Visualization: Tableau, PowerBI
 - Other: Git, Docker, AWS
 
 #### 🤝 Connect with me
