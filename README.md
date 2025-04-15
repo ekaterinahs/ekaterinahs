@@ -7,7 +7,7 @@ Hey, I'm Kat! Physicist currently working as a Data Scientist with expertise in 
 
 #### 📚 Portfolio
 
-I invite you to check out [my portfolio](https://github.com/yourusername/yourportfolio), where I showcase some of my projects! 🚀🎨
+I invite you to check out [my portfolio](https://github.com/ekaterinahs/portfolio/blob/main/README.md), where I showcase some of my projects! 🚀🎨
 
 #### 🛠️ Tech stack
 - Languages: Python, SQL, R
