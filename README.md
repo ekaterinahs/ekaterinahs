@@ -10,7 +10,7 @@ I invite you to check out [my portfolio](https://github.com/ekaterinahs/portfoli
 #### 🛠️ Tech stack
 - Languages: Python, R, C++, VBA
 - Databases: MySQL, Google BigQuery, PostgreSQL
-- Visualization: Tableau, PowerBI
+- Visualization: Matplotlib, Tableau, PowerBI
 - Other: Git, Docker, AWS
 
 #### 🤝 Connect with me
