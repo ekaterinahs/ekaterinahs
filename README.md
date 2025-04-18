@@ -1,5 +1,3 @@
-<img width="600" src="https://github.com/user-attachments/assets/c66ee8c4-7e51-41ac-8054-e78b1a863ddf">
-
 ### 👋 Introducing me
 
 Hey, I'm Kat! Data Scientist with a Physics background and expertise in data mining, including:
